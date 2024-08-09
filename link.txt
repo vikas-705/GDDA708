@@ -1,0 +1,4 @@
+Regression
+https://www.kaggle.com/datasets/stealthtechnologies/regression-dataset-for-household-income-analysis/data
+Classification
+https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset
